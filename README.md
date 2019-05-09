@@ -1,4 +1,4 @@
-# pedestrian-couning
+# pedestrian-counting
 pedestrian counting solution for my Master Thesis - Usage of convolutional neural networks for pedestrian flow analysis.
 
 Tensorflow Object detection models are used in this script to perform pedestrian detection in each frame.
